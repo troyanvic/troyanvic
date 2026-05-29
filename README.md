@@ -1,16 +1,16 @@
-## Hi there 👋
+# Viktor Troian
 
-<!--
-**troyanvic/troyanvic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend engineer focused on realtime telemetry systems and data visualization.
 
-Here are some ideas to get you started:
+## Current interests
+- telemetry systems
+- realtime dashboards
+- high-frequency UI rendering
+- sports/racing analytics
+- performance optimization
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech
+React • TypeScript • WebSockets • Canvas • D3 • Zustand
+
+## Featured projects
+- realtime-runner-telemetry-system
