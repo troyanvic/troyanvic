@@ -1,4 +1,4 @@
-# Viktor Troian
+# Viktor Troian - Realtime UI Engineer
 
 Frontend engineer focused on real-time telemetry systems and data visualization.
 
