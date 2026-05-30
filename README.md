@@ -1,6 +1,6 @@
 # Viktor Troian
 
-Frontend engineer focused on realtime telemetry systems and data visualization.
+Frontend engineer focused on real-time telemetry systems and data visualization.
 
 ## Current interests
 - telemetry systems
@@ -10,7 +10,8 @@ Frontend engineer focused on realtime telemetry systems and data visualization.
 - performance optimization
 
 ## Tech
-React • TypeScript • WebSockets • Canvas • D3 • Zustand
+• React • TypeScript • WebSockets • Canvas • D3 • Zustand •
 
 ## Featured projects
 - realtime-runner-telemetry-system
+- f1-race-replay-platform
